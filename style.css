@@ -1,3 +1,29 @@
+
+/* 
+Index 
+*: Establece márgenes a 0 y define la fuente para todos los elementos.
+.g: Aplica márgenes izquierdo y derecho específicos.
+.o: Aplica un margen derecho específico.
+.go: Define una imagen de fondo que cubre toda la pantalla.
+.gogo: Posiciona el texto de manera absoluta y centra el texto con un tamaño de fuente grande.
+.gogogo, .gogogog: Aplica márgenes izquierdo y derecho específicos.
+.lucy: Define un tamaño de fuente grande.
+.Lucy: Define un tamaño de fuente más pequeño y un peso de fuente más ligero.
+.luci: Establece el ancho al 100%.
+.lima: Aplica un color de fondo específico.
+.Luci: Establece el ancho al 80%.
+.Lucii: Aplica un relleno izquierdo específico.
+#Nati: Elimina márgenes y rellenos.
+#Nati .col-md-3: Elimina el relleno.
+#Nati img: Ajusta las imágenes para que sean responsivas.
+.Bluey: Aplica un color de fondo azul.
+.naty: Aplica márgenes y centra el texto.
+.MrPopo: Aplica un fondo negro y texto blanco.
+Media Query: Ajusta estilos para pantallas con un ancho máximo de 768px, modificando tamaños de fuente, márgenes y alineación de texto para mejorar la visualización en dispositivos más pequeños.
+style.css
+*/
+
+
 * {
     margin: 0%;
     font-family: "M PLUS Rounded 1c", sans-serif;
